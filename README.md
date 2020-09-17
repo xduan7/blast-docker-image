@@ -22,7 +22,7 @@ There are two major modifications over the original version:
 ---
 ## Getting Started
 
-You can either pull the docker image directly from [DockerHub](https://hub.docker.com/) like this:
+You can either pull the docker image directly from [DockerHub](https://hub.docker.com/repository/docker/xduan7/blast) like this:
 ```commandline
 docker pull xduan7/blast:latest     # or some other pre-build tag (blast+ version)
 ```
