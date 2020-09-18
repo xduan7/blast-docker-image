@@ -89,7 +89,9 @@ $tree /blast
 
 ---
 ## Future Tasks
-- [ ] examples and test cases for blast+ binaries and rpsbproc
+- [ ] usage example(s) in README.md
+- [ ] automated test(s) for blast+ binaries and rpsbproc like [this](https://github.com/ncbi/docker/blob/master/blast/test.sh)
+- [ ] add download options NCBI databases that are commonly used with blast+
 
 
 ---
